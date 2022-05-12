@@ -1,6 +1,6 @@
 <h1 align='center'>
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- <br> I'm Claudio Augusto, Back End / Full Stack Developer :computer:<br>
+ <br> I'm Claudio Augusto, Back End Developer :computer:<br>
 </h1>
 
 <h2 align="left">:hammer_and_wrench: Technologies:</h2>
