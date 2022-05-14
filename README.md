@@ -24,7 +24,9 @@
   <a href="https://www.linkedin.com/in/claudioaugustobt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:claudioaugustobt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+<a href="https://github.com/ClaudioAugustoBT/portfolio/blob/main/Curriculo.pdf">:scroll: My Resume / Meu Curriculo</a> 
+<br>
 
+<h2 align="left"></h2>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ClaudioAugustoBT" alt="github" />
-
 
